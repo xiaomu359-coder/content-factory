@@ -3,6 +3,5 @@
   "framework": "nextjs",
   "buildCommand": "pnpm run build",
   "installCommand": "pnpm install",
-  "packageManager": "pnpm@9",
   "regions": ["hkg1", "sin1", "iad1"]
 }
